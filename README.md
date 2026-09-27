@@ -12,4 +12,4 @@ AURELIS is a student digital-marketing project for architectural surfaces.
 - about.html — About AURELIS
 - contact.html — Contact form demo
 
-Open `index.html` to start. All pages share the same `styles.css`, `script.js`, and local images.
+Open `index.html` to start. All pages share the same `styles.css`, `script.js`, and local images..
